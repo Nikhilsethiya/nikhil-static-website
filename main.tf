@@ -1,6 +1,6 @@
 # Provider Block
 provider "azurerm" {
- features {}          
+  features {}
 }
 
 # Create Resource Group
